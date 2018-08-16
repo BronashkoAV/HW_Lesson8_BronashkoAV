@@ -13,7 +13,7 @@ namespace HW_Lesson8_BronashkoAV
         private string fileName;
         List<Question> list;
 
-        public string FileName { get => FileName; set => FileName = value; }
+        public string FileName { get => fileName; set => fileName = value; }
 
         public TrueFalse()
         {
