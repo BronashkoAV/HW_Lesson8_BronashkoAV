@@ -54,6 +54,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Question.cs" />
+    <Compile Include="TrueFalse.cs" />
     <EmbeddedResource Include="FormBeliveOrNotBelive.resx">
       <DependentUpon>FormBeliveOrNotBelive.cs</DependentUpon>
     </EmbeddedResource>
