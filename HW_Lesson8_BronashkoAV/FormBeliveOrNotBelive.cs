@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace HW_Lesson8_BronashkoAV
 {
-    public partial class Form1 : Form
+    public partial class FormBeliveOrNotBelive : Form
     {
-        public Form1()
+        public FormBeliveOrNotBelive()
         {
             InitializeComponent();
         }
